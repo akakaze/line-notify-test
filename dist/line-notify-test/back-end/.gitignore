@@ -1,0 +1,4 @@
+/vendor
+/db/*
+error_log
+.env

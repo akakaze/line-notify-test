@@ -1,0 +1,20 @@
+{
+  "name": "line-notify-test/back-end",
+  "description": "",
+  "authors": [
+    {
+      "name": "akakaze",
+      "email": "m2251000@gmail.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "3.*",
+    "jajo/jsondb": "^2.1",
+    "vlucas/phpdotenv": "^5.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "AkakazeBot\\": "src/"
+    }
+  }
+}
